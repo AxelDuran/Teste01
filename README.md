@@ -1,6 +1,6 @@
-# Teste01
-Um local de alegria e jogatina
+# Seja bem vindo ao meu portfolio!
+Um local aonde eu posto meus trabalhos como programador
 
 <br>
 <br>
-<a href="https://github.com/AxelDuran/Teste01/wiki">acesse a wiki</a>
+<a href="https://github.com/AxelDuran/Teste01/wiki">acesse a wiki para saber mais</a>
